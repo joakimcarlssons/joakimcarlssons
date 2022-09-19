@@ -1,4 +1,6 @@
-### Hi there 👋
+<div align="center">
+    <img src="example.svg" width="400" height="400" alt="css-in-readme">
+</div>
 
 <!--
 **joakimcarlssons/joakimcarlssons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
