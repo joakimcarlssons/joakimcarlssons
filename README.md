@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="typewriter.svg" width="400" height="400" alt="css-in-readme">
+    <img src="typewriter.svg" width="300" height="50" alt="typewriter">
 </div>
 
 <!--
