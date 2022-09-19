@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="typewriter.svg" width="300" height="300" alt="typewriter">
+    <img src="typewriter.svg" alt="typewriter">
 </div>
 
 <!--
