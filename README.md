@@ -1,5 +1,9 @@
 <div align="center">
     <img src="typewriter.svg" alt="typewriter">
+    
+    I'm a fullstack developer mainly working with .NET.
+    
+    For contact: hej@joakimcarlsson.se
 </div>
 
 <!--
