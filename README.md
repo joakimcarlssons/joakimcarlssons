@@ -1,8 +1,9 @@
 <div align="center">
     <img src="typewriter.svg" alt="typewriter">
     
-    I'm a fullstack developer mainly working with .NET.
+    I'm a fullstack developer mainly working with .NET and React.
     
+    Always open for new exciting projects and ideas, don't be a stranger!
     For contact: hej@joakimcarlsson.se
 </div>
 
